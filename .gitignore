@@ -1,0 +1,61 @@
+# Entorno virtual de Python
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Archivos de configuración del entorno virtual
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de bytecode compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos de configuración específicos de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración específicos del entorno de desarrollo
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de log de desarrollo
+*.log
+
+# Archivos de salida del proyecto
+*.csv
+*.hdf5
+*.db
+*.sqlite
+
+# Archivos de configuración de sistemas de manejo de entornos
+.conda/
+.env/
+*.env
+
+# Archivos de configuración y caché de IPython
+.profile
+.ipython/
+.matplotlib/
+
+# Configuraciones de sistemas de integración continua
+.gitlab-ci.yml
+.circleci/
+.github/
+
+# Archivos de configuración de proyectos
+*.toml
+*.yaml
+*.yml
+
+# Archivos generados por herramientas de documentación
+docs/_build/
+*.rst
