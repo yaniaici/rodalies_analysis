@@ -141,12 +141,6 @@ Este Jupyter Notebook integra todas las funcionalidades para cargar los datos, o
 ### 3. **Mapa Interactivo:**
    - Muestra la frecuencia óptima de trenes por estación y franja horaria en un mapa de Catalunya, con la posibilidad de seleccionar diferentes horas del día.
 
-## Próximos Pasos
-
-1. **Análisis Adicional:** Considera agregar más datos (como días específicos de la semana o eventos especiales) para hacer el análisis aún más detallado.
-2. **Modelado Predictivo:** Desarrolla un modelo predictivo para anticipar la demanda futura basada en datos históricos.
-3. **Implementación en Tiempo Real:** Si es posible, adapta el modelo para trabajar con datos en tiempo real y optimizar la frecuencia de trenes de manera dinámica.
-
 ---
 
 **Autor:** Yani Aici 
